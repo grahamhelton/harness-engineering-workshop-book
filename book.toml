@@ -1,0 +1,13 @@
+[book]
+authors = ["Graham Helton", "Ryan Basden"]
+language = "en"
+src = "src"
+title = "Introduction To Harness Engineering For Vulnerability Research"
+
+[build]
+build-dir = "book"
+create-missing = false
+
+[output.html]
+default-theme = "navy"
+preferred-dark-theme = "navy"
